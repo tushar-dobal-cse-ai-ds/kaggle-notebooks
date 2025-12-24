@@ -25,4 +25,4 @@ to uncover insights related to content distribution, growth trends, genres, and 
 - Seaborn
 
 ## Kaggle Notebook
-👉 https://www.kaggle.com/tushardobal
+👉 https://www.kaggle.com/code/tushardobal/exploratory-data-analysis-of-netflix-movies-and-tv
