@@ -11,36 +11,36 @@ techniques using Python.
 
 ---
 
-## 📂 Projects
+## 📂 Projects Included
 
-### 🚢 Titanic Survival Prediction
-- End-to-end machine learning project
-- Includes EDA, feature engineering, Random Forest modeling,
-  regularization, cross-validation, and feature importance analysis
-- Achieved ~81.7% cross-validated accuracy
+### 1. House Prices Regression
+- Regression problem using housing data
+- Feature engineering and model evaluation
+- Achieved RMSE: 0.13138
 
-📁 Folder: `titanic-survival/`
+### 2. Titanic Survival Prediction
+- Classification problem using Random Forest
+- Data preprocessing and feature selection
+- Evaluated using accuracy and classification metrics
 
----
+### 3. Netflix EDA
+- Exploratory data analysis on Netflix dataset
+- Data cleaning and visualization
+- Insights on content distribution and trends
 
-### 🎬 Netflix Exploratory Data Analysis
-- Exploratory analysis of Netflix movies and TV shows
-- Focus on content distribution, genres, countries, and release trends
-- Visualization-driven insights
+### 4. Heart Disease Prediction
+- End-to-end machine learning pipeline
+- EDA, preprocessing, modeling, and validation
+- Random Forest achieved ~98.5% accuracy
+- Includes cross-validation and feature importance analysis
 
-📁 Folder: `netflix-eda/`
-
----
-
-## 🛠 Tools & Technologies
+## 🛠️ Tools & Technologies
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
 - Scikit-learn
-- Kaggle Datasets
+- Matplotlib, Seaborn
 
----
-
+--
 ## 📌 Notes
 Each project folder contains its own README file with detailed
 explanations, methodology, and results.
