@@ -1,0 +1,27 @@
+# Credit Card Fraud Detection using Machine Learning
+
+## Overview
+This project focuses on detecting fraudulent credit card transactions using machine
+learning techniques on a highly imbalanced dataset.
+
+## Workflow
+- Data Understanding & EDA
+- Preprocessing and Feature Scaling
+- Model Training (Logistic Regression, Random Forest)
+- Advanced Evaluation (ROC-AUC, Precision–Recall)
+- Class Imbalance Handling using SMOTE
+
+## Results
+- Random Forest + SMOTE achieved:
+  - Fraud Recall: ~88%
+  - ROC-AUC: ~0.98
+
+## Tools
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Imbalanced-learn
+- Matplotlib, Seaborn
+
+## Kaggle Notebook
+https://www.kaggle.com/code/tushardobal/credit-card-fraud-detection-using-machine-learning
